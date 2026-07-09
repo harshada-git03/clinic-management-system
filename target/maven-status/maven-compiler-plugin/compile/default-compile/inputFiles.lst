@@ -4,6 +4,7 @@ C:\Users\HARSHADA\Downloads\Smart-Clinic-Management-Project\clinic-project\clini
 C:\Users\HARSHADA\Downloads\Smart-Clinic-Management-Project\clinic-project\clinic-backend\src\main\java\com\clinic\controller\AuthController.java
 C:\Users\HARSHADA\Downloads\Smart-Clinic-Management-Project\clinic-project\clinic-backend\src\main\java\com\clinic\controller\DoctorController.java
 C:\Users\HARSHADA\Downloads\Smart-Clinic-Management-Project\clinic-project\clinic-backend\src\main\java\com\clinic\controller\InvoiceController.java
+C:\Users\HARSHADA\Downloads\Smart-Clinic-Management-Project\clinic-project\clinic-backend\src\main\java\com\clinic\controller\MedicineController.java
 C:\Users\HARSHADA\Downloads\Smart-Clinic-Management-Project\clinic-project\clinic-backend\src\main\java\com\clinic\controller\PatientController.java
 C:\Users\HARSHADA\Downloads\Smart-Clinic-Management-Project\clinic-project\clinic-backend\src\main\java\com\clinic\controller\PrescriptionController.java
 C:\Users\HARSHADA\Downloads\Smart-Clinic-Management-Project\clinic-project\clinic-backend\src\main\java\com\clinic\dto\AppointmentRequest.java
@@ -12,9 +13,13 @@ C:\Users\HARSHADA\Downloads\Smart-Clinic-Management-Project\clinic-project\clini
 C:\Users\HARSHADA\Downloads\Smart-Clinic-Management-Project\clinic-project\clinic-backend\src\main\java\com\clinic\dto\AuthResponse.java
 C:\Users\HARSHADA\Downloads\Smart-Clinic-Management-Project\clinic-project\clinic-backend\src\main\java\com\clinic\dto\InvoiceResponse.java
 C:\Users\HARSHADA\Downloads\Smart-Clinic-Management-Project\clinic-project\clinic-backend\src\main\java\com\clinic\dto\LoginRequest.java
+C:\Users\HARSHADA\Downloads\Smart-Clinic-Management-Project\clinic-project\clinic-backend\src\main\java\com\clinic\dto\MedicineRequest.java
+C:\Users\HARSHADA\Downloads\Smart-Clinic-Management-Project\clinic-project\clinic-backend\src\main\java\com\clinic\dto\MedicineResponse.java
 C:\Users\HARSHADA\Downloads\Smart-Clinic-Management-Project\clinic-project\clinic-backend\src\main\java\com\clinic\dto\PatientResponse.java
 C:\Users\HARSHADA\Downloads\Smart-Clinic-Management-Project\clinic-project\clinic-backend\src\main\java\com\clinic\dto\PatientUpdateRequest.java
+C:\Users\HARSHADA\Downloads\Smart-Clinic-Management-Project\clinic-project\clinic-backend\src\main\java\com\clinic\dto\PrescriptionItemRequest.java
 C:\Users\HARSHADA\Downloads\Smart-Clinic-Management-Project\clinic-project\clinic-backend\src\main\java\com\clinic\dto\PrescriptionRequest.java
+C:\Users\HARSHADA\Downloads\Smart-Clinic-Management-Project\clinic-project\clinic-backend\src\main\java\com\clinic\dto\PrescriptionResponse.java
 C:\Users\HARSHADA\Downloads\Smart-Clinic-Management-Project\clinic-project\clinic-backend\src\main\java\com\clinic\dto\RegisterRequest.java
 C:\Users\HARSHADA\Downloads\Smart-Clinic-Management-Project\clinic-project\clinic-backend\src\main\java\com\clinic\entity\Appointment.java
 C:\Users\HARSHADA\Downloads\Smart-Clinic-Management-Project\clinic-project\clinic-backend\src\main\java\com\clinic\entity\Doctor.java
@@ -43,6 +48,7 @@ C:\Users\HARSHADA\Downloads\Smart-Clinic-Management-Project\clinic-project\clini
 C:\Users\HARSHADA\Downloads\Smart-Clinic-Management-Project\clinic-project\clinic-backend\src\main\java\com\clinic\service\AuthService.java
 C:\Users\HARSHADA\Downloads\Smart-Clinic-Management-Project\clinic-project\clinic-backend\src\main\java\com\clinic\service\DoctorService.java
 C:\Users\HARSHADA\Downloads\Smart-Clinic-Management-Project\clinic-project\clinic-backend\src\main\java\com\clinic\service\InvoiceService.java
+C:\Users\HARSHADA\Downloads\Smart-Clinic-Management-Project\clinic-project\clinic-backend\src\main\java\com\clinic\service\MedicineService.java
 C:\Users\HARSHADA\Downloads\Smart-Clinic-Management-Project\clinic-project\clinic-backend\src\main\java\com\clinic\service\PatientService.java
 C:\Users\HARSHADA\Downloads\Smart-Clinic-Management-Project\clinic-project\clinic-backend\src\main\java\com\clinic\service\PrescriptionService.java
 C:\Users\HARSHADA\Downloads\Smart-Clinic-Management-Project\clinic-project\clinic-backend\src\main\java\com\clinic\service\UserService.java
