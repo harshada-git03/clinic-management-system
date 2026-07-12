@@ -39,7 +39,7 @@ public class InvoiceService {
             consultationFee = 0.0;
         }
         InvoiceItem consultationItem = InvoiceItem.builder()
-                .description("Consultation Fee - Dr. " + appointment.getDoctor().getUser().getFullName())
+                .description("Consultation Fee -  " + appointment.getDoctor().getUser().getFullName())
                 .quantity(1)
                 .unitPrice(consultationFee)
                 .amount(consultationFee)

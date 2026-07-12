@@ -11,6 +11,8 @@ C:\Users\HARSHADA\Downloads\Smart-Clinic-Management-Project\clinic-project\clini
 C:\Users\HARSHADA\Downloads\Smart-Clinic-Management-Project\clinic-project\clinic-backend\src\main\java\com\clinic\dto\AppointmentResponse.java
 C:\Users\HARSHADA\Downloads\Smart-Clinic-Management-Project\clinic-project\clinic-backend\src\main\java\com\clinic\dto\AppointmentStatusUpdateRequest.java
 C:\Users\HARSHADA\Downloads\Smart-Clinic-Management-Project\clinic-project\clinic-backend\src\main\java\com\clinic\dto\AuthResponse.java
+C:\Users\HARSHADA\Downloads\Smart-Clinic-Management-Project\clinic-project\clinic-backend\src\main\java\com\clinic\dto\DoctorResponse.java
+C:\Users\HARSHADA\Downloads\Smart-Clinic-Management-Project\clinic-project\clinic-backend\src\main\java\com\clinic\dto\DoctorUpdateRequest.java
 C:\Users\HARSHADA\Downloads\Smart-Clinic-Management-Project\clinic-project\clinic-backend\src\main\java\com\clinic\dto\InvoiceResponse.java
 C:\Users\HARSHADA\Downloads\Smart-Clinic-Management-Project\clinic-project\clinic-backend\src\main\java\com\clinic\dto\LoginRequest.java
 C:\Users\HARSHADA\Downloads\Smart-Clinic-Management-Project\clinic-project\clinic-backend\src\main\java\com\clinic\dto\MedicineRequest.java
