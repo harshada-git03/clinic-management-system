@@ -1,0 +1,12 @@
+﻿clinic-backend/target/
+clinic-backend/data/
+clinic-frontend/node_modules/
+clinic-frontend/dist/
+clinic-frontend/.env
+.vscode/
+.idea/
+*.iml
+*.class
+.DS_Store
+Thumbs.db
+clinic-backend/src/main/resources/application.properties
